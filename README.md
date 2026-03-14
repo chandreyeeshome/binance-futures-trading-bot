@@ -214,4 +214,4 @@ See `requirements.txt` for the full list.
 # Author
 
 Chandreyee Shome  
-B.Tech Computer Science
+B.Tech Computer Science, 4th Year
