@@ -1,0 +1,8 @@
+2026-03-14 17:57:52,007 - INFO - Logging initialized
+2026-03-14 17:59:06,175 - INFO - Logging initialized
+2026-03-14 17:59:42,080 - INFO - Placing MARKET order: BUY 0.002 BTCUSDT
+2026-03-14 17:59:42,961 - INFO - Order placed | ID=12808636952 | Status=NEW | Symbol=BTCUSDT | Side=BUY | Qty=0.002
+2026-03-14 18:03:42,591 - INFO - Logging initialized
+2026-03-14 18:03:57,611 - INFO - Placing MARKET order: BUY 0.002 BTCUSDT
+2026-03-14 18:03:58,406 - INFO - Order Placed Successfully
+2026-03-14 18:03:58,407 - INFO - Response Received | ID=12808695174 | Status=NEW | Symbol=BTCUSDT | Side=BUY | Qty=0.002
